@@ -1,0 +1,887 @@
+{
+  "schema_version": "1.0.0",
+  "fictional": true,
+  "entity_name": "Calderwisp Wholesale",
+  "entity_disclaimer": "Calderwisp Wholesale is a fictional wholesaler created for this portfolio sample. Nodes, categories, operating notes, and figures are synthetic. They do not describe a real business, person, customer, or site.",
+  "currency": "USD",
+  "period": "2025-11",
+  "days_in_period": 30,
+  "seed": 20260311,
+  "generator_version": "1.0.0",
+  "cells": [
+    {
+      "facility": "brindle",
+      "family": "staples",
+      "measures": {
+        "revenue": {
+          "actual": 5784297.59,
+          "plan": 5806080.0,
+          "prior_period": 5510217.55,
+          "prior_year": 5828889.29
+        },
+        "cogs": {
+          "actual": 4505652.36,
+          "plan": 4528742.4,
+          "prior_period": 4298681.17,
+          "prior_year": 4546646.57
+        },
+        "inventory": {
+          "actual": 6039972.52,
+          "plan": 6038323.2,
+          "prior_period": 5533599.84,
+          "prior_year": 6089702.67
+        },
+        "units": {
+          "actual": 723037.0,
+          "plan": 725760.0,
+          "prior_period": 688777.0,
+          "prior_year": 728611.0
+        },
+        "units_forecast": {
+          "actual": 809138.0,
+          "plan": 812851.0,
+          "prior_period": 769105.0,
+          "prior_year": 814228.0
+        },
+        "abs_unit_error": {
+          "actual": 86101.0,
+          "plan": 87091.0,
+          "prior_period": 80328.0,
+          "prior_year": 85617.0
+        },
+        "units_ordered": {
+          "actual": 730267.0,
+          "plan": 733018.0,
+          "prior_period": 695665.0,
+          "prior_year": 735897.0
+        },
+        "units_otif": {
+          "actual": 710128.0,
+          "plan": 712493.0,
+          "prior_period": 676304.0,
+          "prior_year": 715992.0
+        },
+        "lines_ordered": {
+          "actual": 30428.0,
+          "plan": 30542.0,
+          "prior_period": 28986.0,
+          "prior_year": 30662.0
+        },
+        "lines_filled": {
+          "actual": 29931.0,
+          "plan": 30084.0,
+          "prior_period": 28543.0,
+          "prior_year": 30165.0
+        },
+        "expedite_cost": {
+          "actual": 19879.84,
+          "plan": 20321.28,
+          "prior_period": 19519.5,
+          "prior_year": 20187.22
+        }
+      }
+    },
+    {
+      "facility": "brindle",
+      "family": "homecare",
+      "measures": {
+        "revenue": {
+          "actual": 3761121.52,
+          "plan": 3749760.0,
+          "prior_period": 3537627.97,
+          "prior_year": 3739238.32
+        },
+        "cogs": {
+          "actual": 2706486.66,
+          "plan": 2699827.2,
+          "prior_period": 2550899.17,
+          "prior_year": 2689893.72
+        },
+        "inventory": {
+          "actual": 3639438.86,
+          "plan": 3599769.6,
+          "prior_period": 3298650.51,
+          "prior_year": 3613319.84
+        },
+        "units": {
+          "actual": 268652.0,
+          "plan": 267840.0,
+          "prior_period": 252688.0,
+          "prior_year": 267088.0
+        },
+        "units_forecast": {
+          "actual": 302478.0,
+          "plan": 299981.0,
+          "prior_period": 284014.0,
+          "prior_year": 299512.0
+        },
+        "abs_unit_error": {
+          "actual": 33826.0,
+          "plan": 32141.0,
+          "prior_period": 31326.0,
+          "prior_year": 32424.0
+        },
+        "units_ordered": {
+          "actual": 271339.0,
+          "plan": 270518.0,
+          "prior_period": 255215.0,
+          "prior_year": 269759.0
+        },
+        "units_otif": {
+          "actual": 263876.0,
+          "plan": 262943.0,
+          "prior_period": 248636.0,
+          "prior_year": 262106.0
+        },
+        "lines_ordered": {
+          "actual": 11306.0,
+          "plan": 11272.0,
+          "prior_period": 10634.0,
+          "prior_year": 11240.0
+        },
+        "lines_filled": {
+          "actual": 11130.0,
+          "plan": 11103.0,
+          "prior_period": 10490.0,
+          "prior_year": 11092.0
+        },
+        "expedite_cost": {
+          "actual": 13062.37,
+          "plan": 13124.16,
+          "prior_period": 12558.21,
+          "prior_year": 12992.81
+        }
+      }
+    },
+    {
+      "facility": "brindle",
+      "family": "personal",
+      "measures": {
+        "revenue": {
+          "actual": 2544058.14,
+          "plan": 2540160.0,
+          "prior_period": 2395036.28,
+          "prior_year": 2544668.25
+        },
+        "cogs": {
+          "actual": 1655876.53,
+          "plan": 1651104.0,
+          "prior_period": 1554582.22,
+          "prior_year": 1651091.74
+        },
+        "inventory": {
+          "actual": 2199816.97,
+          "plan": 2201472.0,
+          "prior_period": 2013883.95,
+          "prior_year": 2189640.17
+        },
+        "units": {
+          "actual": 115639.0,
+          "plan": 115462.0,
+          "prior_period": 108865.0,
+          "prior_year": 115667.0
+        },
+        "units_forecast": {
+          "actual": 144647.0,
+          "plan": 129317.0,
+          "prior_period": 121656.0,
+          "prior_year": 129887.0
+        },
+        "abs_unit_error": {
+          "actual": 29008.0,
+          "plan": 13855.0,
+          "prior_period": 12791.0,
+          "prior_year": 14220.0
+        },
+        "units_ordered": {
+          "actual": 116795.0,
+          "plan": 116617.0,
+          "prior_period": 109954.0,
+          "prior_year": 116824.0
+        },
+        "units_otif": {
+          "actual": 113717.0,
+          "plan": 113352.0,
+          "prior_period": 106865.0,
+          "prior_year": 113509.0
+        },
+        "lines_ordered": {
+          "actual": 4866.0,
+          "plan": 4859.0,
+          "prior_period": 4581.0,
+          "prior_year": 4868.0
+        },
+        "lines_filled": {
+          "actual": 4792.0,
+          "plan": 4786.0,
+          "prior_period": 4515.0,
+          "prior_year": 4804.0
+        },
+        "expedite_cost": {
+          "actual": 8862.99,
+          "plan": 8890.56,
+          "prior_period": 8260.49,
+          "prior_year": 9077.72
+        }
+      }
+    },
+    {
+      "facility": "redkiln",
+      "family": "staples",
+      "measures": {
+        "revenue": {
+          "actual": 6791402.61,
+          "plan": 6773760.0,
+          "prior_period": 6433043.44,
+          "prior_year": 6764851.18
+        },
+        "cogs": {
+          "actual": 5292168.11,
+          "plan": 5283532.8,
+          "prior_period": 5013412.78,
+          "prior_year": 5270826.18
+        },
+        "inventory": {
+          "actual": 7026444.59,
+          "plan": 7044710.4,
+          "prior_period": 6442736.69,
+          "prior_year": 7058643.7
+        },
+        "units": {
+          "actual": 848925.0,
+          "plan": 846720.0,
+          "prior_period": 804130.0,
+          "prior_year": 845606.0
+        },
+        "units_forecast": {
+          "actual": 951152.0,
+          "plan": 948326.0,
+          "prior_period": 902236.0,
+          "prior_year": 949817.0
+        },
+        "abs_unit_error": {
+          "actual": 102227.0,
+          "plan": 101606.0,
+          "prior_period": 98106.0,
+          "prior_year": 104211.0
+        },
+        "units_ordered": {
+          "actual": 857414.0,
+          "plan": 855187.0,
+          "prior_period": 812171.0,
+          "prior_year": 854062.0
+        },
+        "units_otif": {
+          "actual": 831200.0,
+          "plan": 831242.0,
+          "prior_period": 787238.0,
+          "prior_year": 828751.0
+        },
+        "lines_ordered": {
+          "actual": 35726.0,
+          "plan": 35633.0,
+          "prior_period": 33840.0,
+          "prior_year": 35586.0
+        },
+        "lines_filled": {
+          "actual": 35191.0,
+          "plan": 35099.0,
+          "prior_period": 33325.0,
+          "prior_year": 35082.0
+        },
+        "expedite_cost": {
+          "actual": 24241.95,
+          "plan": 23708.16,
+          "prior_period": 22368.22,
+          "prior_year": 23766.01
+        }
+      }
+    },
+    {
+      "facility": "redkiln",
+      "family": "homecare",
+      "measures": {
+        "revenue": {
+          "actual": 4379619.27,
+          "plan": 4374720.0,
+          "prior_period": 4139459.46,
+          "prior_year": 4370237.69
+        },
+        "cogs": {
+          "actual": 3154830.08,
+          "plan": 3149798.4,
+          "prior_period": 2977243.12,
+          "prior_year": 3144981.72
+        },
+        "inventory": {
+          "actual": 4210190.46,
+          "plan": 4199731.2,
+          "prior_period": 3870528.03,
+          "prior_year": 4168125.45
+        },
+        "units": {
+          "actual": 312830.0,
+          "plan": 312480.0,
+          "prior_period": 295676.0,
+          "prior_year": 312160.0
+        },
+        "units_forecast": {
+          "actual": 350840.0,
+          "plan": 349978.0,
+          "prior_period": 332575.0,
+          "prior_year": 350994.0
+        },
+        "abs_unit_error": {
+          "actual": 38010.0,
+          "plan": 37498.0,
+          "prior_period": 36899.0,
+          "prior_year": 38834.0
+        },
+        "units_ordered": {
+          "actual": 315958.0,
+          "plan": 315605.0,
+          "prior_period": 298633.0,
+          "prior_year": 315282.0
+        },
+        "units_otif": {
+          "actual": 307771.0,
+          "plan": 306768.0,
+          "prior_period": 289591.0,
+          "prior_year": 305724.0
+        },
+        "lines_ordered": {
+          "actual": 13165.0,
+          "plan": 13150.0,
+          "prior_period": 12443.0,
+          "prior_year": 13137.0
+        },
+        "lines_filled": {
+          "actual": 12984.0,
+          "plan": 12953.0,
+          "prior_period": 12252.0,
+          "prior_year": 12915.0
+        },
+        "expedite_cost": {
+          "actual": 15096.17,
+          "plan": 15311.52,
+          "prior_period": 14337.36,
+          "prior_year": 15124.08
+        }
+      }
+    },
+    {
+      "facility": "redkiln",
+      "family": "personal",
+      "measures": {
+        "revenue": {
+          "actual": 2974163.98,
+          "plan": 2963520.0,
+          "prior_period": 2799532.62,
+          "prior_year": 2971549.02
+        },
+        "cogs": {
+          "actual": 1936265.54,
+          "plan": 1926288.0,
+          "prior_period": 1817125.34,
+          "prior_year": 1931523.82
+        },
+        "inventory": {
+          "actual": 2605844.6,
+          "plan": 2568384.0,
+          "prior_period": 2356311.76,
+          "prior_year": 2599486.19
+        },
+        "units": {
+          "actual": 135189.0,
+          "plan": 134705.0,
+          "prior_period": 127251.0,
+          "prior_year": 135070.0
+        },
+        "units_forecast": {
+          "actual": 169925.0,
+          "plan": 150870.0,
+          "prior_period": 143227.0,
+          "prior_year": 150908.0
+        },
+        "abs_unit_error": {
+          "actual": 34736.0,
+          "plan": 16165.0,
+          "prior_period": 15976.0,
+          "prior_year": 15838.0
+        },
+        "units_ordered": {
+          "actual": 136541.0,
+          "plan": 136052.0,
+          "prior_period": 128524.0,
+          "prior_year": 136421.0
+        },
+        "units_otif": {
+          "actual": 132580.0,
+          "plan": 132243.0,
+          "prior_period": 125289.0,
+          "prior_year": 132583.0
+        },
+        "lines_ordered": {
+          "actual": 5689.0,
+          "plan": 5669.0,
+          "prior_period": 5355.0,
+          "prior_year": 5684.0
+        },
+        "lines_filled": {
+          "actual": 5604.0,
+          "plan": 5584.0,
+          "prior_period": 5271.0,
+          "prior_year": 5595.0
+        },
+        "expedite_cost": {
+          "actual": 10498.88,
+          "plan": 10372.32,
+          "prior_period": 9861.35,
+          "prior_year": 10201.3
+        }
+      }
+    },
+    {
+      "facility": "osier",
+      "family": "staples",
+      "measures": {
+        "revenue": {
+          "actual": 6289187.22,
+          "plan": 6289920.0,
+          "prior_period": 5960651.65,
+          "prior_year": 6305469.21
+        },
+        "cogs": {
+          "actual": 4914674.53,
+          "plan": 4906137.6,
+          "prior_period": 4647927.84,
+          "prior_year": 4925230.11
+        },
+        "inventory": {
+          "actual": 6527890.1,
+          "plan": 6541516.8,
+          "prior_period": 5955908.66,
+          "prior_year": 6552989.24
+        },
+        "units": {
+          "actual": 786148.0,
+          "plan": 786240.0,
+          "prior_period": 745081.0,
+          "prior_year": 788184.0
+        },
+        "units_forecast": {
+          "actual": 876209.0,
+          "plan": 880589.0,
+          "prior_period": 830725.0,
+          "prior_year": 878274.0
+        },
+        "abs_unit_error": {
+          "actual": 90061.0,
+          "plan": 94349.0,
+          "prior_period": 85644.0,
+          "prior_year": 90090.0
+        },
+        "units_ordered": {
+          "actual": 794009.0,
+          "plan": 794102.0,
+          "prior_period": 752532.0,
+          "prior_year": 796066.0
+        },
+        "units_otif": {
+          "actual": 772719.0,
+          "plan": 771867.0,
+          "prior_period": 733626.0,
+          "prior_year": 771632.0
+        },
+        "lines_ordered": {
+          "actual": 33084.0,
+          "plan": 33088.0,
+          "prior_period": 31356.0,
+          "prior_year": 33169.0
+        },
+        "lines_filled": {
+          "actual": 32580.0,
+          "plan": 32592.0,
+          "prior_period": 30880.0,
+          "prior_year": 32727.0
+        },
+        "expedite_cost": {
+          "actual": 21813.97,
+          "plan": 22014.72,
+          "prior_period": 20882.16,
+          "prior_year": 22141.95
+        }
+      }
+    },
+    {
+      "facility": "osier",
+      "family": "homecare",
+      "measures": {
+        "revenue": {
+          "actual": 4067163.96,
+          "plan": 4062240.0,
+          "prior_period": 3843492.77,
+          "prior_year": 4059714.05
+        },
+        "cogs": {
+          "actual": 2932604.71,
+          "plan": 2924812.8,
+          "prior_period": 2772576.46,
+          "prior_year": 2921736.22
+        },
+        "inventory": {
+          "actual": 3900082.42,
+          "plan": 3899750.4,
+          "prior_period": 3569094.8,
+          "prior_year": 3862109.06
+        },
+        "units": {
+          "actual": 290512.0,
+          "plan": 290160.0,
+          "prior_period": 274535.0,
+          "prior_year": 289980.0
+        },
+        "units_forecast": {
+          "actual": 323671.0,
+          "plan": 324979.0,
+          "prior_period": 308753.0,
+          "prior_year": 325034.0
+        },
+        "abs_unit_error": {
+          "actual": 33159.0,
+          "plan": 34819.0,
+          "prior_period": 34218.0,
+          "prior_year": 35054.0
+        },
+        "units_ordered": {
+          "actual": 293417.0,
+          "plan": 293062.0,
+          "prior_period": 277280.0,
+          "prior_year": 292880.0
+        },
+        "units_otif": {
+          "actual": 285164.0,
+          "plan": 284856.0,
+          "prior_period": 268716.0,
+          "prior_year": 285058.0
+        },
+        "lines_ordered": {
+          "actual": 12226.0,
+          "plan": 12211.0,
+          "prior_period": 11553.0,
+          "prior_year": 12203.0
+        },
+        "lines_filled": {
+          "actual": 12061.0,
+          "plan": 12028.0,
+          "prior_period": 11387.0,
+          "prior_year": 12032.0
+        },
+        "expedite_cost": {
+          "actual": 13975.45,
+          "plan": 14217.84,
+          "prior_period": 13398.04,
+          "prior_year": 14403.02
+        }
+      }
+    },
+    {
+      "facility": "osier",
+      "family": "personal",
+      "measures": {
+        "revenue": {
+          "actual": 2751144.62,
+          "plan": 2751840.0,
+          "prior_period": 2607736.99,
+          "prior_year": 2746171.55
+        },
+        "cogs": {
+          "actual": 1791623.96,
+          "plan": 1788696.0,
+          "prior_period": 1692751.14,
+          "prior_year": 1782152.01
+        },
+        "inventory": {
+          "actual": 2380132.88,
+          "plan": 2384928.0,
+          "prior_period": 2203619.49,
+          "prior_year": 2363424.61
+        },
+        "units": {
+          "actual": 125052.0,
+          "plan": 125084.0,
+          "prior_period": 118533.0,
+          "prior_year": 124826.0
+        },
+        "units_forecast": {
+          "actual": 155856.0,
+          "plan": 140094.0,
+          "prior_period": 133347.0,
+          "prior_year": 140370.0
+        },
+        "abs_unit_error": {
+          "actual": 30804.0,
+          "plan": 15010.0,
+          "prior_period": 14814.0,
+          "prior_year": 15544.0
+        },
+        "units_ordered": {
+          "actual": 126303.0,
+          "plan": 126335.0,
+          "prior_period": 119718.0,
+          "prior_year": 126074.0
+        },
+        "units_otif": {
+          "actual": 122694.0,
+          "plan": 122798.0,
+          "prior_period": 116602.0,
+          "prior_year": 122896.0
+        },
+        "lines_ordered": {
+          "actual": 5263.0,
+          "plan": 5264.0,
+          "prior_period": 4988.0,
+          "prior_year": 5253.0
+        },
+        "lines_filled": {
+          "actual": 5188.0,
+          "plan": 5185.0,
+          "prior_period": 4914.0,
+          "prior_year": 5178.0
+        },
+        "expedite_cost": {
+          "actual": 9598.89,
+          "plan": 9631.44,
+          "prior_period": 8969.13,
+          "prior_year": 9483.6
+        }
+      }
+    },
+    {
+      "facility": "lowwharf",
+      "family": "staples",
+      "measures": {
+        "revenue": {
+          "actual": 5319869.38,
+          "plan": 5322240.0,
+          "prior_period": 5022575.68,
+          "prior_year": 5329090.48
+        },
+        "cogs": {
+          "actual": 4149478.04,
+          "plan": 4151347.2,
+          "prior_period": 3912738.23,
+          "prior_year": 4153169.96
+        },
+        "inventory": {
+          "actual": 5560288.7,
+          "plan": 5535129.6,
+          "prior_period": 5039648.66,
+          "prior_year": 5518793.43
+        },
+        "units": {
+          "actual": 664984.0,
+          "plan": 665280.0,
+          "prior_period": 627822.0,
+          "prior_year": 666136.0
+        },
+        "units_forecast": {
+          "actual": 746089.0,
+          "plan": 745114.0,
+          "prior_period": 704081.0,
+          "prior_year": 742841.0
+        },
+        "abs_unit_error": {
+          "actual": 81105.0,
+          "plan": 79834.0,
+          "prior_period": 76259.0,
+          "prior_year": 76705.0
+        },
+        "units_ordered": {
+          "actual": 671634.0,
+          "plan": 671933.0,
+          "prior_period": 634100.0,
+          "prior_year": 672797.0
+        },
+        "units_otif": {
+          "actual": 651482.0,
+          "plan": 653119.0,
+          "prior_period": 617132.0,
+          "prior_year": 654111.0
+        },
+        "lines_ordered": {
+          "actual": 27985.0,
+          "plan": 27997.0,
+          "prior_period": 26421.0,
+          "prior_year": 28033.0
+        },
+        "lines_filled": {
+          "actual": 27569.0,
+          "plan": 27577.0,
+          "prior_period": 25976.0,
+          "prior_year": 27581.0
+        },
+        "expedite_cost": {
+          "actual": 18656.4,
+          "plan": 18627.84,
+          "prior_period": 17769.36,
+          "prior_year": 18409.67
+        }
+      }
+    },
+    {
+      "facility": "lowwharf",
+      "family": "homecare",
+      "measures": {
+        "revenue": {
+          "actual": 3446535.73,
+          "plan": 3437280.0,
+          "prior_period": 3248702.65,
+          "prior_year": 3433476.63
+        },
+        "cogs": {
+          "actual": 2478114.31,
+          "plan": 2474841.6,
+          "prior_period": 2341646.06,
+          "prior_year": 2471551.77
+        },
+        "inventory": {
+          "actual": 3276180.55,
+          "plan": 3299788.8,
+          "prior_period": 3000429.51,
+          "prior_year": 3283545.57
+        },
+        "units": {
+          "actual": 246181.0,
+          "plan": 245520.0,
+          "prior_period": 232050.0,
+          "prior_year": 245248.0
+        },
+        "units_forecast": {
+          "actual": 274891.0,
+          "plan": 274982.0,
+          "prior_period": 259198.0,
+          "prior_year": 273847.0
+        },
+        "abs_unit_error": {
+          "actual": 28710.0,
+          "plan": 29462.0,
+          "prior_period": 27148.0,
+          "prior_year": 28599.0
+        },
+        "units_ordered": {
+          "actual": 248643.0,
+          "plan": 247975.0,
+          "prior_period": 234370.0,
+          "prior_year": 247700.0
+        },
+        "units_otif": {
+          "actual": 241495.0,
+          "plan": 241032.0,
+          "prior_period": 227979.0,
+          "prior_year": 241430.0
+        },
+        "lines_ordered": {
+          "actual": 10360.0,
+          "plan": 10332.0,
+          "prior_period": 9765.0,
+          "prior_year": 10321.0
+        },
+        "lines_filled": {
+          "actual": 10189.0,
+          "plan": 10177.0,
+          "prior_period": 9630.0,
+          "prior_year": 10163.0
+        },
+        "expedite_cost": {
+          "actual": 11999.62,
+          "plan": 12030.48,
+          "prior_period": 11223.9,
+          "prior_year": 11928.16
+        }
+      }
+    },
+    {
+      "facility": "lowwharf",
+      "family": "personal",
+      "measures": {
+        "revenue": {
+          "actual": 2332598.74,
+          "plan": 2328480.0,
+          "prior_period": 2200366.08,
+          "prior_year": 2332879.73
+        },
+        "cogs": {
+          "actual": 1514374.81,
+          "plan": 1513512.0,
+          "prior_period": 1430799.32,
+          "prior_year": 1515679.2
+        },
+        "inventory": {
+          "actual": 2038204.39,
+          "plan": 2018016.0,
+          "prior_period": 1849551.0,
+          "prior_year": 2012301.06
+        },
+        "units": {
+          "actual": 106027.0,
+          "plan": 105840.0,
+          "prior_period": 100017.0,
+          "prior_year": 106040.0
+        },
+        "units_forecast": {
+          "actual": 133137.0,
+          "plan": 118541.0,
+          "prior_period": 112009.0,
+          "prior_year": 118664.0
+        },
+        "abs_unit_error": {
+          "actual": 27110.0,
+          "plan": 12701.0,
+          "prior_period": 11992.0,
+          "prior_year": 12624.0
+        },
+        "units_ordered": {
+          "actual": 107087.0,
+          "plan": 106898.0,
+          "prior_period": 101017.0,
+          "prior_year": 107100.0
+        },
+        "units_otif": {
+          "actual": 103803.0,
+          "plan": 103905.0,
+          "prior_period": 98223.0,
+          "prior_year": 104340.0
+        },
+        "lines_ordered": {
+          "actual": 4462.0,
+          "plan": 4454.0,
+          "prior_period": 4209.0,
+          "prior_year": 4462.0
+        },
+        "lines_filled": {
+          "actual": 4388.0,
+          "plan": 4387.0,
+          "prior_period": 4148.0,
+          "prior_year": 4399.0
+        },
+        "expedite_cost": {
+          "actual": 8213.57,
+          "plan": 8149.68,
+          "prior_period": 7721.17,
+          "prior_year": 8015.44
+        }
+      }
+    }
+  ],
+  "notes": [
+    {
+      "note_id": "note.personal.holiday-bias",
+      "period": "2025-11",
+      "facility": null,
+      "family": "personal",
+      "topic": "forecast",
+      "text": "Personal care shipments in this fictional November lagged the demand plan. The note records the gap. It names no customer and no promotion."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "template_id": "month_end.v1.0.0",
+  "faithfulness_score": 1.0,
+  "coverage_score": 1.0,
+  "citation_count": 116,
+  "ungrounded_count": 0,
+  "direction_ok": true,
+  "attribution_ok": true,
+  "fictional": true,
+  "entity_name": "Calderwisp Wholesale"
+}
